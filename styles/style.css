@@ -79,6 +79,11 @@ th{
     padding: 5px 40px;
    
 }  
+/* gmail part */
+#gmail{
+    color: white;
+    margin-right: 40px;
+}
 
 /* media part */
 .media{
@@ -90,12 +95,10 @@ th{
 }
 .blog{
     display: flex;
+    flex-wrap: nowrap;
 
 }
-img{
-    width: 60%;
-    margin-left: 20px;
-}
+
 .text{
     width: 50%;
 }
@@ -104,7 +107,12 @@ img{
     margin-left: 20px;
 }
 .blog-2{
-    margin-top: 40px;
+    margin-top: 80px;
+}
+/* image part */
+img{
+    width: 60%;
+    margin-left: 20px;
 }
 .img-width{
     width: 80%;
