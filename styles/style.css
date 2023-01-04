@@ -58,3 +58,21 @@ label {
     padding:  6px;
     border-radius: 5px;
 }
+
+table{
+    border-collapse: collapse;
+}
+.table{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+td{
+    border: 1px solid black;
+    padding: 5px 40px;
+   
+}
+th{
+    border: 1px solid black;
+    padding: 5px 40px;
+   
+}  
